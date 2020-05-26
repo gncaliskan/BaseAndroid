@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5A86F0</color>
+    <color name="colorPrimaryDark">#4577F0</color>
+    <color name="colorAccent">#ef5a30</color>
+    <color name="colorTextView">#83898E</color>
+    <color name="semiTransparent">#66000000</color>
+    <color name="semiTransparent2">#33000000</color>
+    <color name="semiTransparent3">#AA000000</color>
+    <color name="semiTransparentWhite">#AAFFFFFF</color>
+    <color name="semiTransparentWhite2">#55FFFFFF</color>
+    <color name="titleBg">#F5F5F5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="matte_red">#B22222</color>
+
+    <!--Toast-->
+    <color name="errorColor">#DDA83C36</color>
+    <color name="warningColor">#DDE27420</color>
+    <color name="infoColor">#DD3E588D</color>
+</resources>

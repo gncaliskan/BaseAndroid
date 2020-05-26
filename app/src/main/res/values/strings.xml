@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+    <string name="geri">Geri</string>
+    <string name="placeholder">Boş</string>
+</resources>
